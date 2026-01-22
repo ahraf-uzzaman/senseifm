@@ -1,0 +1,7 @@
+TOKEN = "MTQ2Mzg2NDcyMzExMTAyMjcyNg.GMGyKG.bIxic1MrDwbO4tUfPfWAXkrcDG1JZ3sM0qN_ds"
+
+LAVALINK_HOST = "lavalink"
+LAVALINK_PORT = 2333
+LAVALINK_PASSWORD = "youshallnotpass"
+
+BOT_NAME = "SeNSEi_FM"
